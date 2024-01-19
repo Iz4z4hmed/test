@@ -1,0 +1,58 @@
+[
+{
+"Name": "test10",
+"Email": "test10@gmail.com",
+"Password": "33101223",
+"Confirm_Password": "33101223",
+"id": 1
+},
+{
+"Name": "Manish",
+"Email": "mn@gmail.com",
+"Password": "741",
+"Confirm_Password": "741",
+"id": 3
+},
+{
+"Name": "Neil",
+"Email": "nl@gmail.com",
+"Password": "711",
+"Confirm_Password": "711",
+"id": 4
+},
+{
+"Name": "Juberya",
+"Email": "sonu@gmail.com",
+"Password": "333",
+"Confirm_Password": "333",
+"id": 6
+},
+{
+"Name": "test1",
+"Email": "test1@gmail.com",
+"Password": "33223",
+"Confirm_Password": "33223",
+"id": 7
+},
+{
+"Name": "test2",
+"Email": "test1@gmail.com",
+"Password": "33123",
+"Confirm_Password": "331223",
+"id": 8
+},
+{
+"Name": "test3",
+"Email": "test3@gmail.com",
+"Password": "331223",
+"Confirm_Password": "331223",
+"id": 9
+},
+{
+"Name": "Neil",
+"Email": "nl@gmail.com",
+"Password": "711",
+"Confirm_Password": "711",
+"id": 10
+}
+]
